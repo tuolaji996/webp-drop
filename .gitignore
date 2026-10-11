@@ -1,0 +1,8 @@
+.build-deps/
+.zig-cache/
+build/
+test-output/
+*.obj
+*.pdb
+/WebpDrop.exe
+__pycache__/
